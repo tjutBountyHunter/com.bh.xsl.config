@@ -1,4 +1,4 @@
-package com.example.xslconfigweb;
+package controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
